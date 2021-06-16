@@ -1,0 +1,26 @@
+{
+  "name": "github-pages-api-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-joshi/github-pages-api-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-joshi/github-pages-api-experiment/issues"
+  },
+  "homepage": "https://github.com/akash-joshi/github-pages-api-experiment#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2"
+  }
+}

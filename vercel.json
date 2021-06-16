@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/getDocsList.ts": {
+      "includeFiles": "documentation/**"
+    },
+    "api/getDoc/[term].ts": {
+      "includeFiles": "documentation/**"
+    }
+  }
+}
